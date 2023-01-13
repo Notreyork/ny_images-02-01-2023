@@ -94,7 +94,7 @@ span {
 
 main {
 	display: block;
-	width: 40rem;
+	width: 30rem;
 	padding: 1rem;
 	
 }
@@ -110,6 +110,7 @@ header {
 }
 
 header div {
+	margin-bottom: 0.5rem;
 	
 }
 
@@ -118,6 +119,7 @@ header a {
 }
 
 figure {
+	font-style: normal;
 	width: 100%;
 	margin-bottom: 4rem;
 }

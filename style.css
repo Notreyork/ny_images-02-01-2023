@@ -125,6 +125,10 @@ figure {
 	margin-bottom: 4rem;
 }
 
+figure span {
+	font-style: normal;
+}
+
 figure img,
 figure iframe {
 	width: 100%;

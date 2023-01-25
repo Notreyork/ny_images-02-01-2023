@@ -165,8 +165,10 @@ footer .copyright {
 }
 
 footer .copyright a {
+	font-family: "Helvetica Neue", sans-serif;
 	font-style: oblique;
 	font-weight: 700;
+
 
 }
 

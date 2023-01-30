@@ -162,6 +162,7 @@ footer .download_link {
 footer .copyright {
 	font-family: "Helvetica Neue", sans-serif;
 	font-style: oblique;
+	margin-top: 1rem;
 }
 
 footer .copyright a {

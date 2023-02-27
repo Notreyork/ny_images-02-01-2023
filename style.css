@@ -1,5 +1,5 @@
 * {
-	font-family: "Times New Roman", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 	font-size: 11px;
 	font-style: normal;
 	font-weight: 400;
@@ -82,7 +82,7 @@ span {
 }
 
 .overlay-content {
-	z-index: 9999;
+	z-index: 99999;
 
 }
 
@@ -132,19 +132,18 @@ figure span {
 	font-style: normal;
 }
 
-figure img,
-figure iframe {
+figure img {
 	width: 100%;
+
 }
 
-figure iframe {
-	height: 20rem;
+figure img:hover {
+
 }
 
 figure a {
-	opacity: 0.2;
 	display: block;
-	color: #000;
+	color: #0027FF;
 	font-size: 0.8rem;
 	font-style: normal;
 	font-weight: 400;
